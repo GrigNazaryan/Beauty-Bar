@@ -25,6 +25,7 @@
 @media(max-width:750px) {
     .top_title {
         font-size: 25px;
+        font-weight:bold;
     }
 
     .text {
@@ -33,5 +34,5 @@
     }
     .address{
         font-size: 18px;
-    }
+        font-weight: bold
 }
