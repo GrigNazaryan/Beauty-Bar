@@ -13,6 +13,7 @@
     }
     .bottom{
         gap:30px;
+        overflow-y:hidden;
     }
     .items2{
         gap:20px; 
