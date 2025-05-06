@@ -15,10 +15,12 @@
 @media(max-width:830px) {
     .top_title {
         font-size: 25px;
+        font-weight: bold
     }
 
     .text {
         font-size: 15px;
+        font-weight: bold
     }
 }
 
